@@ -10,3 +10,7 @@ run this script using > terraform init
                       > terraform fmt
                       > terraform validate
                       > terraform apply
+                      
+  
+  
+  After the script successfully executed copy the webserver ip and paste in the browser http://ip/index.php
